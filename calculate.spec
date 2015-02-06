@@ -1,6 +1,6 @@
 %define name	calculate
 %define version	1.00
-%define release	%mkrel 14
+%define release	15
 %define	binname	calc
 
 Name:		%{name}
