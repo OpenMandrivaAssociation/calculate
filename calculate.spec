@@ -10,7 +10,7 @@ License:	GPL
 Group:		Development/Other
 Source0:	%{name}-%{version}.tar.bz2
 Patch0:		calculate-1.00-gcc3-fix.patch.bz2
-URL:		http://home.planetinternet.be/~esmee/calc01.html
+URL:		https://home.planetinternet.be/~esmee/calc01.html
 Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Summary:	A simple command line calculator for the console
 
